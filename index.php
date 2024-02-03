@@ -23,7 +23,7 @@
         </thead>
         <tbody>
             <?php
-            
+            //inda
             $i = 1;
          require_once("db.php");
          $result = mysqli_query($conn,"SELECT * FROM tasks");
